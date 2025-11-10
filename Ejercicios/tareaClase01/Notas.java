@@ -1,4 +1,4 @@
-package Ejercicios.ejercicio02;
+package Ejercicios.tareaClase01;
 
 import java.io.*;
 import java.nio.file.*;

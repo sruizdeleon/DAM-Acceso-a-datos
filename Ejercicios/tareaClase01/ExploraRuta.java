@@ -1,4 +1,4 @@
-package Ejercicios.ejercicio01;
+package Ejercicios.tareaClase01;
 import java.io.File;
 
 public class ExploraRuta {
