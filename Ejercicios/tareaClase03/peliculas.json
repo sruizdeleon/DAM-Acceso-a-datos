@@ -1,0 +1,22 @@
+[
+    {
+        "director": "Christopher Nolan",
+        "titulo": "Inception",
+        "anio": 2010
+    },
+    {
+        "director": "Quentin Tarantino",
+        "titulo": "Pulp Fiction",
+        "anio": 1994
+    },
+    {
+        "director": "Christopher Nolan",
+        "titulo": "Interstellar",
+        "anio": 2014
+    },
+    {
+        "director": "Steaven Spealver",
+        "titulo": "Jurasic Park",
+        "anio": 1993
+    }
+]
