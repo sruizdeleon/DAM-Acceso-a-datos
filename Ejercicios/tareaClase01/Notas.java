@@ -17,7 +17,7 @@ public class Notas {
         }
         scanner.close();
 
-        Path fichero = Paths.get("frases.txt");
+        Path fichero = Paths.get("Ejercicios\\tareaClase01\\frases.txt");
 
         // Escribir las frases en frases.txt
         try (BufferedWriter writer = Files.newBufferedWriter(fichero)) {
