@@ -1,4 +1,4 @@
-package Ejercicios.tareaClase02;
+package ejercicios.tareaClase02;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;

@@ -1,4 +1,4 @@
-package Ejercicios.tareaClase03;
+package ejercicios.tareaClase03;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
